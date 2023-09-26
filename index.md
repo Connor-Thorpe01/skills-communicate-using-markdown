@@ -7,3 +7,7 @@ Changed the headers in index.md
 ``` java
 String hello = "Hello World!";
 ```
+- [x] have fun
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
